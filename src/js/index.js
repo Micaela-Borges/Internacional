@@ -35,20 +35,3 @@ botoes.forEach((botao, indice) => {
         titulos[indice].classList.add("selecionado");
     });
 });
-
-
-
-//const botoes = document.querySelectorAll(".botao");
-//const titulos = document.querySelectorAll(".titulo");
-
-//botoes.forEach((botao, indice) => {
-//	botao.addEventListener("click", () => {
-//		const botaoSelecionado = document.querySelector(".botao.selecionado");
-//		botaoSelecionado.classList.remove("selecionado");
-//		botao.classList.add("selecionado");
-
-//		const personagemSelecionado = document.querySelector(".titulo.selecionado");
-//		tituloSelecionado.classList.remove("selecionado");
-//		titulo[indice].classList.add("selecionado");
-//	});
-//});
