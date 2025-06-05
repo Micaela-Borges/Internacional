@@ -12,11 +12,11 @@ Este projeto é um site estático, basta um navegador Web (Chrome, Opera, Micros
 
 1.  **Clone o repositório:** Abra o seu terminal ou o prompt de comando e execute:
     ```bash
-    git clone [https://github.com/seu-usuario/historia-inter.git](https://github.com/seu-usuario/historia-inter.git)
+    git clone [https://github.com/seu-usuario/internacional.git](https://github.com/seu-usuario/internacional.git)
 
 2.  **Navegue para o diretório do projeto:**
     ```bash
-    cd historia-inter
+    cd internacional
 
 
 ##  Modo de usar
