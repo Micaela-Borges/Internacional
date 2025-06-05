@@ -36,7 +36,9 @@ Para visualizar o site, basta abrir o arquivo `index.html` em um navegador Web d
                             * `estilos.css`: Da estilo com cores aos botões e escrita do projeto.
                             * `reset.css`: Margem do site.
                             * `responsivo.css`: Tamanho de imagens, escrita...
-
+              - Pasta imagens: contém todas as imagens utilizadas no site.
+              - Pasta js:
+                            * `index.js`: Da função aos botões.
 
 ## Contribuição para o projeto
 
