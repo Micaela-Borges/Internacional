@@ -60,4 +60,4 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 Micaela - micaelaborges25@hotmail.com
 
-Link do Projeto: [https://github.com/seu-usuario/historia-inter](https://github.com/seu-usuario/historia-inter)
+Link do Projeto: [https://github.com/seu-usuario/historia-inter](https://github.com/seu-usuario/internacional)
