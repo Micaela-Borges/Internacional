@@ -40,16 +40,6 @@ Para visualizar o site, basta abrir o arquivo `index.html` em um navegador Web d
               - Pasta js:
                             * `index.js`: Da função aos botões.
 
-## Contribuição para o projeto
-
-Gostaria de contribuir com a história do colorado?
-
-1.  Faça um Fork do Projeto
-2.  Crie sua Feature Branch (`git checkout -b feature/nova-conquista`)
-3.  Comite suas Alterações (`git commit -m 'feat: Adiciona detalhes sobre o Mundial de 2006'`)
-4.  Envie para a Branch (`git push origin feature/nova-conquista`)
-5.  Abra um Pull Request
-
 
 ## Licença
 
