@@ -1,6 +1,6 @@
 # História do Sport Club Internacional nos principais títulos nacionais e internacionais
 
-Este projeto apresenta um pouco da história do time masculino de futebol do Internacional de Porto Alegre nas principais competições nacionais e internacionais, desde sua fundação até os dias atuais.
+Este projeto tem como objetivo apresentar um pouco da história do time masculino de futebol do Internacional de Porto Alegre nas principais competições nacionais e internacionais, desde sua fundação até os dias atuais.
 
 
 ## Início
@@ -27,18 +27,6 @@ Para visualizar o site, basta abrir o arquivo `index.html` em um navegador Web d
     * No explorador de arquivos do seu sistema operacional, navegue até a pasta `Internacional`.
     * Clique duas vezes no arquivo `index.html`. Ele será aberto automaticamente em seu navegador padrão.
 
-
-## Estrutura de Pastas
-
-* `index.html`: A página principal do site.
-- Pasta src:
-              - Pasta css:
-                            * `estilos.css`: Da estilo com cores aos botões e escrita do projeto.
-                            * `reset.css`: Margem do site.
-                            * `responsivo.css`: Tamanho de imagens, escrita...
-              - Pasta imagens: contém todas as imagens utilizadas no site.
-              - Pasta js:
-                            * `index.js`: Da função aos botões.
 
 
 ## Licença
