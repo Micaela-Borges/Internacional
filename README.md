@@ -28,6 +28,18 @@ Para visualizar o site, basta abrir o arquivo `index.html` em um navegador Web d
     * Clique duas vezes no arquivo `index.html`. Ele será aberto automaticamente em seu navegador padrão.
 
 
+## Estrutura de Pastas
+
+* `index.html`: A página principal do site.
+- Pasta src:
+              - Pasta css:
+                            * `estilos.css`: Da estilo com cores aos botões e escrita do projeto.
+                            * `reset.css`: Margem do site.
+                            * `responsivo.css`: Tamanho de imagens, escrita...
+              - Pasta imagens: contém todas as imagens utilizadas no site.
+              - Pasta js:
+                            * `index.js`: Da função aos botões.
+
 
 ## Licença
 
