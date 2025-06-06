@@ -24,7 +24,7 @@ Este projeto é um site estático, basta um navegador Web (Chrome, Opera, Micros
 Para visualizar o site, basta abrir o arquivo `index.html` em um navegador Web de sua preferência.
 
 1.  **Abra o arquivo:**
-    * No explorador de arquivos do seu sistema operacional, navegue até a pasta `historia-inter`.
+    * No explorador de arquivos do seu sistema operacional, navegue até a pasta `Internacional`.
     * Clique duas vezes no arquivo `index.html`. Ele será aberto automaticamente em seu navegador padrão.
 
 
